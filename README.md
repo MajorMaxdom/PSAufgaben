@@ -1,5 +1,7 @@
 # PowerShell Lernaufgaben — Fachinformatiker Systemintegration
 
+**Dieses ganze Repo wurde KI-Gestützt erstellt.**
+
 Übungsreihe für angehende Fachinformatiker Systemintegration.  
 20 Aufgaben mit steigendem Schwierigkeitsgrad, ausgelegt auf **zwei Arbeitstage**.
 
