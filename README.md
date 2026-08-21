@@ -1,4 +1,4 @@
-# PowerShell Lernaufgaben — Fachinformatiker Systemintegration
+# PowerShell Lernaufgaben
 
 **Dieses ganze Repo wurde KI-Gestützt erstellt.**
 
